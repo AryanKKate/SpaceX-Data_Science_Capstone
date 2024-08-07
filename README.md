@@ -14,5 +14,5 @@ Launch Data : https://api.spacexdata.com/v4/launches/past</p>
 Falcon9 wikipedia (Webscrape) : https://en.wikipedia.org/wiki/List_of_Falcon_9_and_Falcon_Heavy_launches
 
 <h2> Contents :</h2>
-<h3>1 : [Data Collection from API](https://github.com/AryanKKate/SpaceX-Data_Science_Capstone/blob/main/1-Data_collection_api.ipynb) </h3>
+<h3>1 : Data Collection using API :</h3>
 
